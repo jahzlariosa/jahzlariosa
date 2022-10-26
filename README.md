@@ -13,3 +13,6 @@
 ## Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,bootstrap,php,wordpress,gatsby,react,mysql,vim,md,git,bash,cloudflare&theme=light)
+
+## Support Me
+[Paypal](https://paypal.me/josephlariosa)
