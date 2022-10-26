@@ -4,6 +4,9 @@
 * Hosting Expert
 * Pantheon Support Engineer
 
+## What am I up to right now?
+Looking forward to working with open source projects.
+
 ## Contact Me
 [dev@jahz.xyz](mailto:dev@jahz.xyz)
 
