@@ -1,7 +1,15 @@
-### Hi there 👋
-Need something?
+## Hi there, I'm Jahz 👋
+* Web Developer
+* Web Performance Analyst
+* Hosting Expert
+* Pantheon Support Engineer
 
-Mail me: [dev@jahz.xyz](mailto:dev@jahz.xyz)
+## Contact Me
+[dev@jahz.xyz](mailto:dev@jahz.xyz)
+
+## Technologies
+
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,bootstrap,php,wordpress,gatsby,react,mysql,vim,md,git,bash,cloudflare&theme=light)
 
 <!--
 **jahzlariosa/jahzlariosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
