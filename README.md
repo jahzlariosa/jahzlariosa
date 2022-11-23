@@ -2,7 +2,6 @@
 * Web Developer
 * Web Performance Analyst
 * Hosting Expert
-* Pantheon Support Engineer
 
 ## What am I up to right now?
 Looking forward to working with open source projects.
