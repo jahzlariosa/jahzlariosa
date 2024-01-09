@@ -21,6 +21,7 @@ I have experience in various technologies such as JavaScript, PHP, WordPress, Dr
 - Drupal
 - WordPress
 - PHP
+- SEO
 
 ## 🌱 I’m currently learning
 
