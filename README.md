@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jahzlariosa/jahzlariosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jahz**, a passionate developer who loves coding and problem-solving.
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in various technologies such as JavaScript, PHP, WordPress, Drupal and Server Management. I love learning new technologies and improving my skills.
+
+## 🛠️ Skills
+
+- JavaScript
+- Python
+- React
+- Node.js
+- MongoDB
+- NextJS
+- Strapi
+- Drupal
+- WordPress
+- PHP
+
+## 🌱 I’m currently learning
+
+- NextJS 14
+
+## 👨‍💻 Projects
+
+- [PCVCCI](https://www.pcvcci.com): non-profit community website.
+
+## 🔗 Connect with me
+
+[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />][github]
+
+<br />
+
+---
+
+[twitter]: https://twitter.com/dev_jahz
+[linkedin]: https://linkedin.com/in/jahz
+[github]: https://github.com/jahzlariosa
