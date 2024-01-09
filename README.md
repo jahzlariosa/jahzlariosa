@@ -26,7 +26,7 @@ I have experience in various technologies such as JavaScript, PHP, WordPress, Dr
 
 - NextJS 14
 
-## 👨‍💻 Projects
+## 👨‍💻 Public Projects (Actively Maintained)
 
 - [PCVCCI](https://www.pcvcci.com): non-profit community website.
 
