@@ -5,7 +5,7 @@ I'm a dedicated developer who invests my time to save yours.
 ## 🧑‍💼 Current Employer
 ⚡ [Pantheon Systems](https://pantheon.io) as [Staff. Customer Success Engineeer](https://www.linkedin.com/in/jahz/)
 
-## 🛠️ Skills
+## 🛠️ Proficiency
 
 - JavaScript
 - Python
@@ -18,10 +18,6 @@ I'm a dedicated developer who invests my time to save yours.
 - WordPress
 - PHP
 - SEO
-
-## 🌱 I’m currently learning
-
-- NextJS 14
 
 ## 👨‍💻 Public Projects (Actively Maintained)
 
