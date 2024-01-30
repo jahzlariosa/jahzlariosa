@@ -1,10 +1,6 @@
 # Hi there 👋 (🟢 Open for freelance projects)
 
-I'm **Jahz**, a passionate developer who loves coding and problem-solving.
-
-## 📚 About Me
-
-I have experience in various technologies such as JavaScript, PHP, WordPress, Drupal and Server Management. I love learning new technologies and improving my skills.
+I'm a dedicated developer who invests my time to save yours.
 
 ## 🧑‍💼 Current Employer
 ⚡ [Pantheon Systems](https://pantheon.io) as [Staff. Customer Success Engineeer](https://www.linkedin.com/in/jahz/)
