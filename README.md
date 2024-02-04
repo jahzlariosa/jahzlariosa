@@ -1,9 +1,8 @@
 # Hi there 👋 (🟢 Open for freelance projects)
-
 I'm a dedicated developer who invests my time to save yours.
 
-## 🧑‍💼 Current Employer
-⚡ [Pantheon Systems](https://pantheon.io) as [Staff. Customer Success Engineeer](https://www.linkedin.com/in/jahz/)
+ [<img  src="https://github.com/jahzlariosa/jahzlariosa/blob/main/img/pantheon_webops_badge_0.png" />][pantheon]
+
 
 ## 🛠️ Proficiency
 
@@ -36,4 +35,4 @@ I'm a dedicated developer who invests my time to save yours.
 [twitter]: https://twitter.com/dev_jahz
 [linkedin]: https://linkedin.com/in/jahz
 [github]: https://github.com/jahzlariosa
-
+[pantheon]: https://www.credential.net/4da43797-0786-40a9-aa7c-22357a67e07e
