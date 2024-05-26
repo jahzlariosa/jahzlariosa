@@ -11,6 +11,8 @@ I'm a dedicated developer who invests my time to save yours.
 - React
 - Node.js
 - MongoDB
+- SupaBase
+- FireBase
 - NextJS
 - Strapi
 - Drupal
