@@ -20,10 +20,6 @@ I'm a dedicated developer who invests my time to save yours.
 - PHP
 - SEO
 
-## 👨‍💻 Public Projects (Actively Maintained)
-
-- [PCVCCI](https://www.pcvcci.com): non-profit community website.
-
 ## 🔗 Connect with me
 
 [<img align="left" alt="twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
