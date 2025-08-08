@@ -163,11 +163,6 @@
 </tr>
 </table>
 
-<div align="center">
-  
-  [![Blog](https://img.shields.io/badge/Read_More-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.com)
-  
-</div>
 
 ## 🎨 Design Philosophy
 
