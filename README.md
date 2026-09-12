@@ -54,8 +54,8 @@ I'm a fullstack developer working across CMS platforms (Drupal, WordPress), mode
 ### Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jahzlariosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=6d28d9&text_color=c4b5fd" alt="github stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahzlariosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&text_color=c4b5fd" alt="top languages"/>
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=jahzlariosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&icon_color=6d28d9&text_color=c4b5fd" alt="github stats"/>
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jahzlariosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00e5ff&text_color=c4b5fd" alt="top languages"/>
 </p>
 
 ### Contributions
