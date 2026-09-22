@@ -1,13 +1,3 @@
-<!-- jahzlariosa — profile README -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:00e5ff&height=180&section=header&text=Hi%2C%20I%27m%20Jahz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=60&descSize=16" alt="header"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Drupal+%E2%80%A2+WordPress+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+Convex;Mobile+apps+%2B+server+management" alt="typing intro"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahzlariosa&label=PROFILE+VIEWS&color=6d28d9&style=flat" alt="profile views"/>
-</p>
 
 ### About me
 
@@ -77,4 +67,3 @@ I'm a fullstack developer working across CMS platforms (Drupal, WordPress), mode
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-00e5ff?style=for-the-badge&logo=gmail&logoColor=black" alt="email"/></a>
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:6d28d9,100:0f172a&height=120&section=footer" alt="footer"/>
