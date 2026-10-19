@@ -17,7 +17,7 @@ I build things that work well and are easy to maintain, across CMS platforms, mo
 
 | Area     | Tools                                                                  |
 | -------- | ---------------------------------------------------------------------- |
-| CMS      | Drupal, WordPress, PHP, MySQL                                          |
+| CMS      | Drupal, WordPress                                                      |
 | Frontend | React, Next.js, TypeScript, JavaScript, Tailwind                       |
 | Backend  | Node.js, Postgres, Redis, GraphQL, Supabase, MongoDB, Convex           |
 | Mobile   | React Native, Expo, Android, iOS, Firebase                             |
