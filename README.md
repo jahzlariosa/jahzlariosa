@@ -13,6 +13,12 @@
 
 I build things that work well and are easy to maintain, across CMS platforms, modern web stacks, mobile apps and servers.
 
+## Projects
+
+- **[Kastr](https://kastr.site)**: church presentation software for worship lyrics, Bible verses and slides, run from a browser with a phone clicker.
+- **[JED](https://github.com/jahzlariosa/jed)**: an open-source TanStack Start and Supabase starter with auth, roles, an admin panel and a CMS, ready to deploy on Vercel.
+- **[jahz.xyz](https://jahz.xyz)**: my portfolio and blog, built on JED.
+
 ## Stack
 
 | Area     | Tools                                                                  |
@@ -27,4 +33,5 @@ I build things that work well and are easy to maintain, across CMS platforms, mo
 
 ## Connect
 
+- [Website](https://jahz.xyz)
 - [LinkedIn](https://www.linkedin.com/in/jahz)
